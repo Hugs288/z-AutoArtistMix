@@ -44,3 +44,10 @@ example: input: quasarcake, wlop, greatodoggo - output: (quasarcake:1.214035088)
 some of the prompt replacement code i stole from tipo.py (https://github.com/KohakuBlueleaf/z-tipo-extension) thanks kblue
 
 basically all the other coding was done by deepseek.
+
+# Trivia
+
+- why the z at the beginning? to make the script run after wildcard processing.
+
+- why no rounding? because it makes the prompt look very funny and schizo.
+
