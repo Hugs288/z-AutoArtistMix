@@ -1,8 +1,10 @@
 # z-AutoArtistMix
 an interesting method to weigh artists.
 
-This is a webui (https://github.com/Panchovix/stable-diffusion-webui-reForge) extension that is meant to be used with noob vpred 1.0 (https://civitai.com/models/833294/noobai-xl-nai-xl)
+This is a webui extension (https://github.com/Panchovix/stable-diffusion-webui-reForge) that is meant to be used with noob vpred 1.0 (https://civitai.com/models/833294/noobai-xl-nai-xl)
 (idk about other webui variations, i only tested with reforge)
+
+to install it simply clone this repo into the extensions folder or install from URL in the webui.
 
 the concept is simple, this extension scans your prompt for artist tags and weighs them automatically depending on how many images of them were included in noob's dataset. (https://huggingface.co/datasets/Laxhar/noob-wiki/tree/main)
 
